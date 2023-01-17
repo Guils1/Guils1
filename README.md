@@ -15,7 +15,8 @@ Aqui estão algumas idéias para você começar:
 #### Estou aprendendo:
 <div style="display: inline-block">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"0width="40" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40" />
+  <img src="/images/avatar.jpeg" width="40" height="40" />
  </div>
  
  #### Contatos:
