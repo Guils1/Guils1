@@ -11,7 +11,7 @@
 
 
 
-  <img src="/images/avatar-removebg-preview.png" width="150" height="200" align="right"/>
+  <img src="/images/avatar-removebg-preview.png" width="200" height="300" align="right"/>
  </div>
  
  #### Contatos:
