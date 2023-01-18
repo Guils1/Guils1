@@ -3,12 +3,12 @@
   <h2 align="center">
     <a href="https://www.linkedin.com/in/guilvalerio/">Guilherme Valério</a>
   </h2>
-  <hr>
-  <img align="right" alt="HTML" height="400" width="260" src="/images/aavatar.png">
   <p align="center">
     Apresentação...
     </a>  
   </p>
+  <hr>
+  <img align="right" alt="HTML" height="400" width="260" src="/images/aavatar.png">
   
 </div>
 
