@@ -12,7 +12,7 @@
  
   <div align="center">
 
-  <img align="center" alt="HTML" height="400" width="230" src="/images/aavatar.png">
+  <img align="right" alt="HTML" height="400" width="230" src="/images/aavatar.png">
 
     
 #### Tecnologias e ferramentas:
