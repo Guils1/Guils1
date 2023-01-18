@@ -3,10 +3,6 @@
   <h2 align="center">
     <a href="https://www.linkedin.com/in/guilvalerio/">Guilherme Valério</a>
   </h2>
-  <p align="center">
-    Apresentação...
-    </a>  
-  </p>
   <hr>  
 </div>
 
