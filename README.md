@@ -4,7 +4,7 @@
     Opa, galerinha!
 </div>
 
-<p> Sou o Guilherme, moro em Quintana-SP, tenho 19 anos, atualmente trabalho como desenvolvedor full stack na empresa PedBot Sistemas e estou me graduando em BDAg na faculdade de tecnologia de São Paulo (FATEC) na cidade Pompéia.
+<p> Sou o Guilherme, moro em Quintana-SP, tenho 19 anos, atualmente trabalho como desenvolvedor full stack na empresa PedBot Sistemas e estou me graduando em BDAg na faculdade de tecnologia de São Paulo (FATEC) na cidade de Pompéia.
 
   <img align="right" alt="HTML" height="200" width="130" src="/images/aavatar.png">
 
