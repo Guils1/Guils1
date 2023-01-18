@@ -1,10 +1,10 @@
 <div>
   
   <h1 align="center">
-    Oi Tudo bem? Eu sou o 
-    <a href="https://www.linkedin.com/in/guilvalerio/">Guilherme Valério 😃️</a>
+    <a href="https://www.linkedin.com/in/guilvalerio/">Guilherme Valério</a>
   </h1>
   
+  <img align="center" alt="HTML" height="30" width="40" src="/images/avatarleft.png">
   <p align="center">
     Apresentação...
     </a>  
@@ -46,5 +46,4 @@
 </div>
 
 <div align="center">
-  <p>Feito com ...</p>
-</div>
+  <p>Feito com ...</p></div>
