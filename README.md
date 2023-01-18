@@ -15,6 +15,8 @@
     <img height="150em" src="https://github-readme-stats.vercel.app/api?username=Guils1&count_private=true&include_all_commits=true&show_icons=true&theme=dracula&hide_border=false&show_owner=true"/>
     <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Guils1&theme=dracula&hide_border=false&&layout=compact"/>
   </a>
+  <img align="right" alt="HTML" height="200" width="130" src="/images/aavatar.png">
+  
 </div>
 
 <div align="center" valign="top"><br>
@@ -29,7 +31,6 @@
   <img align="center" alt="git" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
   <img align="center" alt="docker" height="35" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg">
   <img align="center" alt="linux" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg">
-  <img align="right" alt="HTML" height="200" width="130" src="/images/aavatar.png">
 </div><br>
 
 <div align="center">
