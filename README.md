@@ -11,6 +11,9 @@
   </div>
  
   <div align="center">
+
+  <img align="center" alt="HTML" height="30" width="40" src="/images/aavatar.png">
+
     
 #### Tecnologias e ferramentas:
     
