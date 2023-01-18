@@ -9,13 +9,9 @@
  <div align="center">
     <img  height="200" width="400" src="https://media0.giphy.com/media/4rZA5D22301iMgrUNd/giphy.gif?cid=ecf05e47n86ds4jm91ph3it7ed3hammydriwf0nc6r70ompa&rid=giphy.gif&ct=g">
   </div>
-  
-  <div>
+ 
     <img align="right" alt="HTML" height="200" width="130" src="/images/aavatar.png">
-  </div>
- 
   <div align="center">
- 
 #### Tecnologias e ferramentas:
   </div>
     
