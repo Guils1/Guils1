@@ -8,7 +8,7 @@
     </a>  
   </p>
   <hr>
-  <img align="right" alt="HTML" height="400" width="260" src="/images/aavatar.png">
+  <img align="right" alt="HTML" height="200" width="130" src="/images/aavatar.png">
   
 </div>
 
