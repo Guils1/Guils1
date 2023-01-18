@@ -1,10 +1,10 @@
 <div>
   
   <h2 align="center">
-    <a href="https://www.linkedin.com/in/guilvalerio/">Guilherme Valério</a>
-  </h2>
-  <hr>  
+    Opa, galerinha!
 </div>
+
+<p> Tenho 19 anos, ...
 
   <img align="right" alt="HTML" height="200" width="130" src="/images/aavatar.png">
 
