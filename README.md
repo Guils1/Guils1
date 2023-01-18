@@ -3,11 +3,17 @@
   <h2 align="center">
     Opa, galerinha!
 </div>
-
-<p> Sou o Guilherme, moro em Quintana-SP, tenho 19 anos, atualmente trabalho como desenvolvedor full stack na empresa PedBot Sistemas e estou me graduando em BDAg na faculdade de tecnologia de São Paulo (FATEC) na cidade de Pompéia.
-
-  <img align="right" alt="HTML" height="200" width="130" src="/images/aavatar.png">
-
+<div>
+  <p> Sou o Guilherme, moro em Quintana-SP, tenho 19 anos, atualmente trabalho como desenvolvedor full stack na empresa PedBot Sistemas e estou me graduando em BDAg na faculdade de tecnologia de São Paulo (FATEC) na cidade de Pompéia. <br>
+</div>
+ <div align="center">
+    <img  height="200" width="400" src="https://media0.giphy.com/media/4rZA5D22301iMgrUNd/giphy.gif?cid=ecf05e47n86ds4jm91ph3it7ed3hammydriwf0nc6r70ompa&rid=giphy.gif&ct=g">
+  </div>
+  
+  <div>
+    <img align="right" alt="HTML" height="200" width="130" src="/images/aavatar.png">
+  </div>
+ 
 #### Tecnologias e ferramentas:
 <div align="center" valign="top"><br>
   <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
