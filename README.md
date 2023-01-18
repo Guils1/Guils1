@@ -3,7 +3,7 @@
   <h2 align="center">
     <a href="https://www.linkedin.com/in/guilvalerio/">Guilherme Valério</a>
   </h2>
-  
+  <hr>
   <img align="right" alt="HTML" height="400" width="260" src="/images/aavatar.png">
   <p align="center">
     Apresentação...
@@ -11,7 +11,7 @@
   </p>
   
 </div>
-<hr>
+
 <div align="center">
   <a href="https://github.com/Guils1">
     <img height="150em" src="https://github-readme-stats.vercel.app/api?username=Guils1&count_private=true&include_all_commits=true&show_icons=true&theme=dracula&hide_border=false&show_owner=true"/>
