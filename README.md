@@ -4,7 +4,7 @@
     <a href="https://www.linkedin.com/in/guilvalerio/">Guilherme Valério</a>
   </h1>
   
-  <img align="center" alt="HTML" height="30" width="40" src="/images/avatarleft.png">
+  <img align="center" alt="HTML" height="30" width="40" src="/images/aavatar.png">
   <p align="center">
     Apresentação...
     </a>  
