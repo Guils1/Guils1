@@ -35,7 +35,7 @@
 
 <div align="center">
     
-#### Contatos:
+#### Redes sociais:
     
 </div>
     
